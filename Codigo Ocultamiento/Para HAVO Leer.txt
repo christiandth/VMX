@@ -1,0 +1,4 @@
+Hola que tal Havo  ya se logro resolver el problema del ocultamiento
+en el C# Script HideCatedral.cs lo subo para que le des una chekada 
+y nos auxiles si notal algo incorrecto o si se puede mejorar la eficiencia 
+del codigo.
